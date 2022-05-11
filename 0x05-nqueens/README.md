@@ -8,7 +8,7 @@ Did an N queens while learning interview challenges by doing the task in this pr
 
 # Tasks
 
-+ [] [0. N queens](./0-nqueens.py)
++ [ ] [0. N queens](./0-nqueens.py)
 
 
   + Chess grandmaster Judit Polgár, the strongest female chess player of all time
@@ -28,6 +28,7 @@ Format: see example
 
 You don’t have to print the solutions in a specific order
 
-You are only allowed to import the sys module
+Allowed to import the sys module only
+
 Read: [Queen](https://en.m.wikipedia.org/wiki/Queen_(chess)), [Backtracking](https://en.m.wikipedia.org/wiki/Backtracking)
 ---
