@@ -15,7 +15,7 @@
 
 ## Tasks
 
-+ [x] [0. Star Wars Characters](./0-starwars_characters.js)  [0. Star Wars Characters](/.0-starwars_characters_v2.js)   [0. Star Wars Characters]((./0-starwars_characters_v3.js)
++ [x] [0. Star Wars Characters](./0-starwars_characters.js)  [0. Star Wars Characters_v2](/.0-starwars_characters_v2.js)   [0. Star Wars Characters_v3](./0-starwars_characters_v3.js)
 
     + Write a script that prints all characters of a Star Wars movie:
 
