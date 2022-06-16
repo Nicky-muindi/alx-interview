@@ -20,7 +20,7 @@ In this project I developed a game program using python to do the game tasks.
   + If the winner cannot be determined, return None
   + You can assume n and x will not be larger than 10000
   + You cannot import any packages in this task
-+ **Example: **
++ **Example:**
 
 ```
 
